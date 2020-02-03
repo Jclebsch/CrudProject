@@ -1,3 +1,6 @@
+**
+To run the backend, you gonna need open a new terminal. The database runs on the door 3001.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
